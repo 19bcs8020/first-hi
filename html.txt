@@ -4,22 +4,6 @@
 <html lang="en">
 
 <head>
-<title>heading</title>
-<style>
-    h1,h5{
-        https://github.com/19bcs8020/first-hi.git        color: red;
-        background-color: black;
-    text-align: center; 
-
-    }
-    h2{
-        color: purple;
-    }
-    h4{
-        color:blue;
-        background-color: green;
-    }
-</style>
 
 </head>
 
